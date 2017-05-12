@@ -1,0 +1,27 @@
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\bin\Debug\Tv.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\bin\Debug\Tv.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\bin\Debug\Tv.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\C#Programms\Tv\Tv\obj\Debug\Tv.pdb
+C:\Users\mitrohin.n\Desktop\Tv\Tv\bin\Debug\Tv.exe.config
+C:\Users\mitrohin.n\Desktop\Tv\Tv\bin\Debug\Tv.exe
+C:\Users\mitrohin.n\Desktop\Tv\Tv\bin\Debug\Tv.pdb
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.csprojResolveAssemblyReference.cache
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.Form1.resources
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.Properties.Resources.resources
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.csproj.GenerateResource.Cache
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.exe
+C:\Users\mitrohin.n\Desktop\Tv\Tv\obj\Debug\Tv.pdb
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\bin\Debug\Tv.exe.config
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.exe
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.pdb
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\bin\Debug\Tv.exe
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\bin\Debug\Tv.pdb
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.Form1.resources
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.Properties.Resources.resources
+C:\Users\Nikita\Desktop\на Гит\Tv\Tv\obj\Debug\Tv.csproj.GenerateResource.Cache
